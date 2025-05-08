@@ -99,7 +99,7 @@ SessionPasswordNeededError: 2FA enabled - provide password
 
 ## Disclaimer
 
-Use this tool responsibly. The developers are not responsible for:
+Use this tool responsibly. We are not responsible for:
 
 Account bans due to aggressive API use
 
